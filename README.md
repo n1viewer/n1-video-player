@@ -40,10 +40,13 @@ For playback issues, include the player version, Windows version, GPU, and steps
 
 ## Third-party sources and licenses
 
-N1 Video Player is proprietary. This repository also hosts release-specific source bundles for its open-source components, including the modified VLC runtime. Each component retains its own license.
+N1 Video Player is proprietary. The open-source components used by the player retain their respective licenses. This repository is the public home for their release-specific corresponding source archives, notices and build information; it does not contain the proprietary N1 application source code.
 
-1. Find the **Runtime ID** in `licenses/N1_SOURCE_REFERENCE.txt` in the installed package. Builds with the same application version can use different runtimes.
-2. Find the matching Runtime ID in [Releases](https://github.com/n1viewer/n1-video-player/releases).
-3. Under **Assets**, download `N1VP-third-party-source-<Runtime ID>.zip` and its matching `.zip.sha256` file. The named ZIP contains the library sources. GitHub’s automatic **Source code** downloads contain the files tracked in this repository.
+- [Third-party software and licensing terms](THIRD_PARTY.md)
+- [How to identify and download the matching source archive](SOURCE_DOWNLOADS.md)
+- [Official license information](https://n1viewer.com/video-player/licenses/)
+- [Privacy policy](https://n1viewer.com/video-player/privacy/)
 
-To verify a download in PowerShell, run `Get-FileHash -Algorithm SHA256` followed by the archive path and compare the result with the digest in the checksum file. License notices and build information accompany each published source bundle. [Third-party notices](https://n1viewer.com/video-player/licenses/)
+**Source availability:** the first release-specific source bundle is being prepared. No corresponding-source archive is currently published in Releases. The release assets and their exact runtime IDs will be listed when available.
+
+The website and in-app links remain on n1viewer.com. Large source archives and their checksums will be hosted in [GitHub Releases](https://github.com/n1viewer/n1-video-player/releases), not on the website.
