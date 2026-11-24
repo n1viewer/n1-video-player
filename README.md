@@ -2,7 +2,16 @@
 
 **Give old movies new life.** Rediscover a favorite DVD rip on a larger screen, watch a film in HDR, or pick up an episode where you left off. N1 Video Player plays local video on Windows x64. It’s free, with no ads, subscriptions, paid features, or account requirement.
 
-[Official website](https://n1viewer.com/video-player/) · [Releases](https://github.com/n1viewer/n1-video-player/releases) · [Report an issue](https://github.com/n1viewer/n1-video-player/issues)
+**[Download for Windows (EXE)](https://n1viewer.com/downloads/N1VideoPlayer_Setup.exe)** · [Official website](https://n1viewer.com/video-player/) · [Releases](https://github.com/n1viewer/n1-video-player/releases) · [Report an issue](https://github.com/n1viewer/n1-video-player/issues)
+
+## Download
+
+**N1 Video Player 2.14.79** — Windows x64 standalone installer.
+
+- [Download the installer](https://n1viewer.com/downloads/N1VideoPlayer_Setup.exe)
+- [Official product page](https://n1viewer.com/video-player/)
+
+The installer is hosted on the official website. The Microsoft Store edition is subject to Store publication availability. Third-party source bundles in Releases are not application installers.
 
 ## Picture quality
 
@@ -35,6 +44,8 @@ MP4, MKV, MOV, AVI, WEBM, M4V, WMV, TS, MTS, M2TS, M2T, MXF, 3GP, 3G2, MPG, MPEG
 AAC, MP3, MPEG Audio, Vorbis, Opus, WMA, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), DTS, Dolby TrueHD, FLAC, ALAC, and PCM. Playback depends on the codecs inside each file.
 
 ## Bug reports and feature requests
+
+For support or privacy inquiries, use [GitHub Issues](https://github.com/n1viewer/n1-video-player/issues). Please do not post personal information, private media or unredacted diagnostic logs publicly.
 
 For playback issues, include the player version, Windows version, GPU, and steps to reproduce. For RTX or HDR issues, also mention your display and which enhancements were enabled. [Open a GitHub issue](https://github.com/n1viewer/n1-video-player/issues)
 
