@@ -38,3 +38,10 @@ The source export report describes its scope and limitations. Publication and bi
 Official license page: https://n1viewer.com/video-player/licenses/
 
 [Third-party software and licensing terms](THIRD_PARTY.md)
+
+## Additional release-specific notices and instructions
+
+- [Supplemental license and attribution texts for 2.14.79](licenses/1a33f61934fb074e6903ad36/SUPPLEMENTAL_NOTICES.txt)
+- [Using compatible modified LGPL libraries with 2.14.79](licenses/1a33f61934fb074e6903ad36/LIBRARY_REPLACEMENT.md)
+
+The supplemental notices identify upstream versions and include full license texts and additional attribution. Consult the published source bundle for exact MSYS2 packages, file-level notices and patches. The standalone replacement method is based on source inspection; the local MSIX replacement procedure has not been executed on Windows.
