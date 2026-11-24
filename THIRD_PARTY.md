@@ -12,7 +12,7 @@ The player uses the VideoLAN libVLC engine, including modified VLC modules, and 
 
 The unmodified VLC license and attribution texts from the pinned upstream revision are available here: [LGPL 2.1](licenses/vlc/COPYING.LIB), [GPL 2](licenses/vlc/COPYING) and [AUTHORS](licenses/vlc/AUTHORS). They do not constitute the complete release-specific set of notices for every dependency.
 
-The exact component inventory, applicable licenses, copyright notices, dependency versions, patches and build settings are specific to each runtime. The release-specific materials will accompany the matching source archive. The installed package also contains the applicable notices in its `licenses` directory. A general upstream link alone is not the complete corresponding source.
+The exact component inventory, applicable licenses, copyright notices, dependency versions, patches and build settings are specific to each runtime. Release-specific materials accompany the matching source archive. The installed package also contains the applicable notices in its `licenses` directory. A general upstream link alone is not the complete corresponding source.
 
 ## User rights
 
@@ -24,7 +24,7 @@ The Windows Store installation is managed by Windows. Do not change the protecte
 
 ## Source materials
 
-See [SOURCE_DOWNLOADS.md](SOURCE_DOWNLOADS.md) and the [Releases page](https://github.com/n1viewer/n1-video-player/releases). No release-specific source bundle has been published yet.
+See [SOURCE_DOWNLOADS.md](SOURCE_DOWNLOADS.md) and the [Releases page](https://github.com/n1viewer/n1-video-player/releases). The [2.14.79 third-party source release](https://github.com/n1viewer/n1-video-player/releases/tag/runtime-1a33f61934fb074e6903ad36) is published. Its archive and checksum are available in Releases.
 
 VLC, libVLC and FFmpeg are third-party projects. N1 Video Player is independently developed and is not endorsed by VideoLAN or the FFmpeg project.
 
