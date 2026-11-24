@@ -47,6 +47,6 @@ N1 Video Player is proprietary. The open-source components used by the player re
 - [Official license information](https://n1viewer.com/video-player/licenses/)
 - [Privacy policy](https://n1viewer.com/video-player/privacy/)
 
-**Source availability:** the first release-specific source bundle is being prepared. No corresponding-source archive is currently published in Releases. The release assets and their exact runtime IDs will be listed when available.
+**Source availability:** [N1 Video Player 2.14.79 third-party source release](https://github.com/n1viewer/n1-video-player/releases/tag/runtime-1a33f61934fb074e6903ad36) is published (runtime ID `1a33f61934fb074e6903ad36`). [Download source bundle](https://github.com/n1viewer/n1-video-player/releases/download/runtime-1a33f61934fb074e6903ad36/N1VP-third-party-source-1a33f61934fb074e6903ad36.zip) · [SHA-256 file](https://github.com/n1viewer/n1-video-player/releases/download/runtime-1a33f61934fb074e6903ad36/N1VP-third-party-source-1a33f61934fb074e6903ad36.zip.sha256). The verified Store and standalone installer runtime inventories match.
 
-The website and in-app links remain on n1viewer.com. Large source archives and their checksums will be hosted in [GitHub Releases](https://github.com/n1viewer/n1-video-player/releases), not on the website.
+The website and in-app links remain on n1viewer.com. Large source archives and their checksums are hosted in [GitHub Releases](https://github.com/n1viewer/n1-video-player/releases), not on the website.
