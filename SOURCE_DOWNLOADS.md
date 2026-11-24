@@ -1,8 +1,8 @@
 # Corresponding source downloads
 
-This repository hosts release-specific source materials for the third-party runtime of N1 Video Player. The application itself is distributed through Microsoft Store.
+This repository hosts release-specific source materials for the third-party runtime of N1 Video Player. The application itself is distributed separately from these source materials.
 
-**Current status:** no release-specific archive has been published. This page will list the actual available releases once their source materials have been verified and uploaded.
+**Current status:** the [2.14.79 third-party source bundle](https://github.com/n1viewer/n1-video-player/releases/tag/runtime-1a33f61934fb074e6903ad36) is published. The runtime inventory matches the tested Store package and the corrected standalone installation.
 
 ## Find the correct archive
 
@@ -19,7 +19,7 @@ Compare the result with the digest in the companion checksum file and the instal
 
 ## What to look for in the archive
 
-The source bundle is intended to include the exact modified VLC source, corresponding dependency sources, applicable license and copyright notices, build recipes and configuration, a runtime inventory, and release-specific build and library-replacement instructions. Read `SOURCE_EXPORT_REPORT.json` and `BUILD_AND_REPLACE.md` inside the archive. The proprietary N1 application source is not part of these materials.
+The source bundle is intended to include the exact modified VLC source, corresponding dependency sources, applicable license and copyright notices, build recipes and configuration, a runtime inventory, and release-specific build and library-replacement instructions. Read `SOURCE_EXPORT_REPORT.json` and the included build and replacement instructions inside the archive. The proprietary N1 application source is not part of these materials.
 
 If an archive needs to be split to fit hosting limits, the release must provide every part, a reconstruction procedure, and the checksum of the reconstructed original archive.
 
@@ -27,7 +27,13 @@ If an archive needs to be split to fit hosting limits, the release must provide 
 
 | Application version | Runtime ID | Source archive | Status |
 | --- | --- | --- | --- |
-| — | — | — | First source publication pending |
+| 2.14.79 | `1a33f61934fb074e6903ad36` | [ZIP](https://github.com/n1viewer/n1-video-player/releases/download/runtime-1a33f61934fb074e6903ad36/N1VP-third-party-source-1a33f61934fb074e6903ad36.zip) · [SHA-256](https://github.com/n1viewer/n1-video-player/releases/download/runtime-1a33f61934fb074e6903ad36/N1VP-third-party-source-1a33f61934fb074e6903ad36.zip.sha256) | Published |
+
+Archive size: 990,915,558 bytes.
+
+SHA-256: `7d7bd15d73afc085f50b2e6410837c3773b02061391bc0987bb377b48c49633d`.
+
+The source export report describes its scope and limitations. Publication and binary hash matching do not by themselves establish complete license compliance.
 
 Official license page: https://n1viewer.com/video-player/licenses/
 
