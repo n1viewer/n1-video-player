@@ -10,6 +10,8 @@ The player uses the VideoLAN libVLC engine, including modified VLC modules, and 
 - FFmpeg: [upstream project](https://ffmpeg.org/), [licensing information](https://ffmpeg.org/legal.html).
 - [GNU LGPL 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) and [GNU GPL 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html): consult the individual source file headers and corresponding release notices for applicability. The full upstream source tree can contain code not distributed in the player runtime.
 
+The unmodified VLC license and attribution texts from the pinned upstream revision are available here: [LGPL 2.1](licenses/vlc/COPYING.LIB), [GPL 2](licenses/vlc/COPYING) and [AUTHORS](licenses/vlc/AUTHORS). They do not constitute the complete release-specific set of notices for every dependency.
+
 The exact component inventory, applicable licenses, copyright notices, dependency versions, patches and build settings are specific to each runtime. The release-specific materials will accompany the matching source archive. The installed package also contains the applicable notices in its `licenses` directory. A general upstream link alone is not the complete corresponding source.
 
 ## User rights
